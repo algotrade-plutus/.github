@@ -1,16 +1,35 @@
-# Welcome to ALGOTRADE Plutus
-This is the GitHub page of ALGOTRADE Plutus, a open-source organization sponsored by ALGOTRADE.
+# ALGOTRADE PLUTUS
+Welcome to the GitHub page of ALGOTRADE PLUTUS, an open-source organization sponsored by ALGOTRADE.
 
-The aims of this organization is:
+The aims of this organization are:
 - To develop an open-source framework for the algorithmic trading field
 - Promote and host open-source projects that follow the standards from ALGOTRADE for public use.
-- A place for the algorithmic trading community (especially in Vietnam) have a place to disscuss.
+- A place for the algorithmic trading community (especially in Vietnam) have a place to discuss.
 
-To get started, you can explore the PLUTUS Standard guidelines and our sample projects [here](https://github.com/algotrade-research/plutus-guideline).
+To get started, explore the PLUTUS Standard guidelines [here](https://github.com/algotrade-research/plutus-guideline).
+
+Below is a list of our sample projects. Each project has a PLUTUS Compliance Score that shows its compliance with the PLUTUS Guidelines.
+
+Three badge levels go with the Compliance Score:
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-80%25-%23BA8E23) is for a project's score ranging from 50% to 69%. 
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-green-darkgreen) is for a project's score ranging from 70% to 99%.
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-100%25-purple) is reserved for projects with a score of 100%, flagship projects to promote the PLUTUS Guidelines.
+
+# Sample Projects
+Below is the list of sample projects which adhere to the PLUTUS Standard. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with the PLUTUS Standard.
+| **ID** | **Project Name** | **Strategy Type** | **Author/Maintainer** | **PLUTUS Compliance** |
+|--------|------------------------------------------------------------------|-------------------|-----------------------|:---------------------:|
+| 1 | [InstiFund](https://github.com/algotrade-research/InstiFund) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/), [ETF Front-Runner Strategy](https://hub.algotrade.vn/knowledge-hub/front-running-etf-strategy/) | [Đặng Minh Nhật](https://github.com/BJMinhNhut) | ![Static Badge](https://img.shields.io/badge/PLUTUS-80%25-darkgreen) |
+| 2 | [SearchingTA](https://github.com/algotrade-research/SearchingTA) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/), [Mean-Reversion](https://hub.algotrade.vn/knowledge-hub/mean-reversion-strategy/) | [Tống Thiên Phước](https://github.com/tphuoc04/) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
+| 3 | [FinTrip](https://github.com/algotrade-research/FinTrip) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Tạ Quang Khôi](https://github.com/khoi-ta) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
+| 4 | [Statisical-Arbitrage](https://github.com/algotrade-research/Statisical-Arbitrage) | [Market-Neutral: Statistical Arbitrage](https://hub.algotrade.vn/knowledge-hub/market-neutral-strategy/) | [Cao Quang Hiếu](https://github.com/HieuQCao) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
+| 5 | [Intraday-Momentum](https://github.com/algotrade-research/Intraday-Momentum) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/) | [Lâm Thành Duy](https://github.com/ltduy6) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
+| 6 | [SmartBeta](https://github.com/algotrade-research/SmartBeta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Lê Đức Phú](https://github.com/dphu2609) | ![Static Badge](https://img.shields.io/badge/PLUTUS-70%25-darkgreen) |
+| 7 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| ![Static Badge](https://img.shields.io/badge/PLUTUS-80%25-%23BA8E23) |
+| 8 | | | | |
 
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
