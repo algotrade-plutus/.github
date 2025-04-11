@@ -11,8 +11,8 @@ To get started, explore the PLUTUS Standard guidelines [here](https://github.com
 Below is a list of our sample projects. Each project has a PLUTUS Compliance Score that shows its compliance with the PLUTUS Guidelines.
 
 Three badge levels go with the Compliance Score:
-- ![Static Badge](https://img.shields.io/badge/PLUTUS-80%25-%23BA8E23) is for a project's score ranging from 50% to 69%. 
-- ![Static Badge](https://img.shields.io/badge/PLUTUS-green-darkgreen) is for a project's score ranging from 70% to 99%.
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-darkyellow-%23BA8E23) is for a project's score ranging from 50% to 69%. 
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-darkgreen-darkgreen) is for a project's score ranging from 70% to 99%.
 - ![Static Badge](https://img.shields.io/badge/PLUTUS-100%25-purple) is reserved for projects with a score of 100%, flagship projects to promote the PLUTUS Guidelines.
 
 # Sample Projects
@@ -25,7 +25,7 @@ Below is the list of sample projects which adhere to the PLUTUS Standard. Each p
 | 4 | [Statisical-Arbitrage](https://github.com/algotrade-research/Statisical-Arbitrage) | [Market-Neutral: Statistical Arbitrage](https://hub.algotrade.vn/knowledge-hub/market-neutral-strategy/) | [Cao Quang Hiếu](https://github.com/HieuQCao) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
 | 5 | [Intraday-Momentum](https://github.com/algotrade-research/Intraday-Momentum) | [Momentum](https://hub.algotrade.vn/knowledge-hub/momentum-strategy/) | [Lâm Thành Duy](https://github.com/ltduy6) | ![Static Badge](https://img.shields.io/badge/PLUTUS-75%25-darkgreen) |
 | 6 | [SmartBeta](https://github.com/algotrade-research/SmartBeta) | [Smart-Beta](https://hub.algotrade.vn/knowledge-hub/smart-beta-strategies/) | [Lê Đức Phú](https://github.com/dphu2609) | ![Static Badge](https://img.shields.io/badge/PLUTUS-70%25-darkgreen) |
-| 7 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| ![Static Badge](https://img.shields.io/badge/PLUTUS-80%25-%23BA8E23) |
+| 7 | [DeepMM](https://github.com/algotrade-research/deepmm) | [Market-Making](https://hub.algotrade.vn/knowledge-hub/market-making-strategy/) | [Lê Thanh Danh](https://github.com/danhleth), [Lương Thanh Anh Đức](https://github.com/luongthanhanhduc)| ![Static Badge](https://img.shields.io/badge/PLUTUS-50%25-%23BA8E23) |
 | 8 | | | | |
 
 
