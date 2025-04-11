@@ -11,8 +11,8 @@ To get started, explore the PLUTUS Standard guidelines [here](https://github.com
 Below is a list of our sample projects. Each project has a PLUTUS Compliance Score that shows its compliance with the PLUTUS Guidelines.
 
 Three badge levels go with the Compliance Score:
-- ![Static Badge](https://img.shields.io/badge/PLUTUS-darkyellow-%23BA8E23) is for a project's score ranging from 50% to 69%. 
-- ![Static Badge](https://img.shields.io/badge/PLUTUS-darkgreen-darkgreen) is for a project's score ranging from 70% to 99%.
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-<score>-%23BA8E23) is for a project's score ranging from 50% to 69%. 
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-<score>-darkgreen) is for a project's score ranging from 70% to 99%.
 - ![Static Badge](https://img.shields.io/badge/PLUTUS-100%25-purple) is reserved for projects with a score of 100%, flagship projects to promote the PLUTUS Guidelines.
 
 # Sample Projects
