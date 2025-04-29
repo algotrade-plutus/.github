@@ -17,6 +17,7 @@ Three badge levels go with the Compliance Score:
 
 Furthermore, the
 - ![Static Badge](https://img.shields.io/badge/PLUTUS-Sample-darkblue) is given to projects that are selected to become PLUTUS Sample Project, featured in [PLUTUS Standard Guideline](https://github.com/algotrade-course/plutus-guideline/)
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-PROTO-%23880A88) is given to projects in the `PROTO` algorithm series developed by ALGOTRADE.
 
 # Sample Projects
 Below is the list of sample projects which adhere to the PLUTUS Standard. Each project has link to the author/maintainer profile. Plutus compliance percentage show how much the project is currently aligned with the PLUTUS Standard.
