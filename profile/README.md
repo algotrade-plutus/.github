@@ -1,5 +1,5 @@
 # ALGOTRADE PLUTUS
-Welcome to the GitHub page of ALGOTRADE PLUTUS, an open-source organization sponsored by ALGOTRADE.
+Welcome to the GitHub page of ALGOTRADE PLUTUS, an open-source sponsored by ALGOTRADE.
 
 This organization aims:
 - To develop an open-source framework for the algorithmic trading field.
