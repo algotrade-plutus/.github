@@ -41,10 +41,10 @@ Below is the list of sample projects which adhere to the PLUTUS Standard. Each p
 | 16 | | | | | |
 
 ## Other example projects
-There is also a repertoire of projects that adhere to the PLUTUS Standard, which comes from the educational program offered by ALGOTRADE, that can be explored [here](https://github.com/algotrade-course).
+There is also a repertoire of projects that adhere to the PLUTUS Standard, which comes from the educational program offered by ALGOTRADE, that can be explored [here](https://github.com/algotrade-education).
 
 Listed are the projects from:
-- [CS408: Computational Finance, Algorithmic Trading - APCS, HCMUS, 2025](https://github.com/algotrade-course#cs408---apcs-hcmus---2025-project)
+- [CS408: Computational Finance, Algorithmic Trading - APCS, HCMUS, 2025](https://github.com/algotrade-education#cs408---apcs-hcmus---2025-project)
 <!--
 **Here are some ideas to get you started:**
 
